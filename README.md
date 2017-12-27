@@ -62,13 +62,13 @@
 		<tr>
 			<th width='200px'>Project Name</th>
 			<th>Description</th>
-			<th width='75px'><a href='https://github.com/Kowser/Ruby_Portfolio'>Github</a></th>
+			<th width='75px'>Github</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td colspan='2'><strong>Object-Oriented Ruby - command line based</strong></td>
-			<th rowspan='17'>Github</th>
+			<th rowspan='18'><a target='blank' href='https://github.com/Kowser/ruby_portfolio'>Github</a></th>
 		</tr>
 		<tr>
 			<td>Address Book</td>
@@ -148,11 +148,13 @@
 		<tr>
 			<th width='200px'>Project Name</th>
 			<th>Description</th>
+			<th>Github</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td colspan='2'><strong>Object-Oriented Javascript</strong></td>
+			<td rowspan='12'><a target='_blank' href='https://github.com/Kowser/javascript_portfolio'>Github</a></td>
 		</tr>
 		<tr>
 			<td>Hangman</td>
