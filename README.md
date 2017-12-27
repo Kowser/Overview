@@ -7,7 +7,7 @@
 		<tr>
 			<th width='200px'>Project Name</th>
 			<th>Description</th>
-			<th width='80px'>Github</th>
+			<th width='75px'>Github</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -33,17 +33,17 @@
 			<td colspan='3'><strong>Continuing Education (Tutorials, Bootcamp works, etc..)</strong></td>
 		</tr>
 		<tr>
-			<td>Depot Tutoria></td>
-			<td>A tutorial from Agile Web Development with Rails 4 . Primary focus of this site was learning how to build a shopping cart, and learning how to internationalize (I18n) language content.</td>
+			<td>Depot Tutorial</td>
+			<td>A tutorial from Agile Web Development with Rails 4. Primary focus of this site was learning how to build a shopping cart, and learning how to internationalize (I18n) language content.</td>
 			<td><a target='blank' href='https://github.com/Kowser/depot_tutorial'>Github</a></td>
 		</tr>
-			<td>Sample App 2013</td>
-			<td>Test Suite version (2016) of Michael Hartl Tutorial for Rails 4. Focus on learning standard testing methods, and building own authentication component.</td>
+			<td>Sample App 2016</td>
+			<td>Test Unit version (2016) of Michael Hartl Tutorial for Rails 4. Focus on learning standard testing methods, and building own authentication component.</td>
 			<td><a target='blank' href='https://github.com/Kowser/sample_app_2016'>Github</a></td>
 		</tr>
 		<tr>
-			<td>Sample App 2016</td>
-			<td>Rspec testing version (2013) of Michael Hartl Tutorial completed with optional exercises for Rails 4</td>
+			<td>Sample App 2013</td>
+			<td>Rspec Test (2013) of Michael Hartl Tutorial completed with optional exercises for Rails 4</td>
 			<td><a target='blank' href='https://github.com/Kowser/sample_app_2013'>Github</a></td>
 		</tr>
 		<tr>
@@ -55,18 +55,20 @@
 </table>
 
 <h1 align='center'>Ruby Portfolio</h1>
-<img align='left' src='https://github.com/Kowser/Overview/blob/master/images/ruby.png' width='150px'>
-<p>A selection of Ruby works developed during my time at Epicodus. We started ourventure into ruby without using the aid of Active Record, thus we had to create our own sql tables from the command line, and write our own sql query methods like <em>self.all</em> or <em>self.save</em>. Once we understood how this was all accomplished, we were then allowed to use ActiveRecord to aid in our development w/o feeling like we were sending requests through a black box.</p>
+<img align='right' src='https://github.com/Kowser/Overview/blob/master/images/ruby.png' width='130px'>
+<p>A selection of Ruby works developed during my time at Epicodus. We started ourventure into ruby without using the aid of Active Record, thus we had to create our own sql tables from the command line, and write our own sql query methods like <em>self.all</em> or <em>self.save</em>. Once we understood how this was all accomplished, we were then allowed to use ActiveRecord to aid in our development w/o feeling like we were dealing with black magic.</p>
 <table width='100%'>
 	<thead>
 		<tr>
 			<th width='200px'>Project Name</th>
 			<th>Description</th>
+			<th width='75px'><a href='https://github.com/Kowser/Ruby_Portfolio'>Github</a></th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td colspan='2'><strong>Object-Oriented Ruby - command line based</strong></td>
+			<th rowspan='17'>Github</th>
 		</tr>
 		<tr>
 			<td>Address Book</td>
