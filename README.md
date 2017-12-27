@@ -1,11 +1,6 @@
-
-<img align='left' src='https://github.com/Kowser/JavaScript_Portfolio/blob/master/js.png' width='165px'>
-<img align='right' src='https://github.com/Kowser/JavaScript_Portfolio/blob/master/js.png' width='165px'>
-<br>
-<br>
-<br>
 <h1 align='center'>JavaScript Portfolio</h1>
 
+<img align='right' src='https://github.com/Kowser/JavaScript_Portfolio/blob/master/js.png' width='165px'>
 A selection of Javascript/jQuery and HTML/CSS works developed during my time at Epicodus. There are far more projects than we were able to fully finish, starting a new project almost daily. Pair-Programming & Test Driven Development are the foundational basis of each project.
 
 All projects collectively share the same bootstrap framework files.
