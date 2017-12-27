@@ -1,5 +1,5 @@
 <h1 align='center'>Ruby on Rails Portfolio</h1>
-<img align='right' src='tree/master/images/ror.png' width='165px' />
+<img align='right' src='https://github.com/Kowser/Overview/blob/master/images/ror.png' width='165px' />
 <p>Following JavaScript and Ruby, we put together everything we knew and ventured into the world of Rails, utilizing a full back-end database, object-oriented programming, and now the newly introduced MVC system on which Rails is built. We learned about controllers, views, assets, and a whole plethra of other concepts that allow rails to run and function so easily, provided the programmer follows standard rails conventions.</p>
 
 <table width='100%'>
@@ -55,7 +55,7 @@
 </table>
 
 <h1 align='center'>Ruby Portfolio</h1>
-<img align='left' src='tree/master/images/ruby.png' width='150px'>
+<img align='left' src='https://github.com/Kowser/Overview/blob/master/images/ruby.png' width='150px'>
 <p>A selection of Ruby works developed during my time at Epicodus. We started ourventure into ruby without using the aid of Active Record, thus we had to create our own sql tables from the command line, and write our own sql query methods like <em>self.all</em> or <em>self.save</em>. Once we understood how this was all accomplished, we were then allowed to use ActiveRecord to aid in our development w/o feeling like we were sending requests through a black box.</p>
 <table width='100%'>
 	<thead>
@@ -139,7 +139,7 @@
 
 
 <h1 align='center'>JavaScript Portfolio</h1>
-<img align='right' src='tree/master/images/js.png' width='165px' />
+<img align='right' src='https://github.com/Kowser/Overview/blob/master/images/js.png' width='165px' />
 <p>Javascript was the first language we learned at Epicodus. We started with some of the rudimentary logic to begin teaching us about loops, if/then statements, writing functions, passing variables, etc... working our way up to the more complex object-oriented programming, and using jQuery to manipulate the user's front end experience. Ultimately we were able to build our own games, including a 52-card deck based game like Go Fish.</p>
 <table width='100%'>
 	<thead>
