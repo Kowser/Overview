@@ -1,6 +1,8 @@
 <h1 align='center'>About Michal Kaszubowski</h1>
 <img align='right' src='https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWPAAAAJGYyYTAyNGJiLTkzZWEtNGNmOS1hZjMyLWNjOTFhN2Y5Mzc0OA.jpg' width='200px' />
 <p>I've been coding since before I knew I was coding. It all started back in the day with little script files that I would write to carry out a series of windows shell commands. The made life so much easier. It fascinated me, but I didn't want to grow up to be 'one of those people' (meaning the computer nerds). So naturally I avoided going down that road until some years later when I dawned on me that it's what I should've done all along. Now that I'm on the right track, I couldn't be happier. I have finally found my calling, and who would've guessed, but I'm good at it too!</p>
+<br>
+<br>
 
 <h1 align='center'>Ruby on Rails Portfolio</h1>
 <img align='right' src='https://github.com/Kowser/Overview/blob/master/images/ror.png' width='165px' />
