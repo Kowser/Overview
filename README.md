@@ -1,6 +1,12 @@
+<h1 align='center'>About Michal Kaszubowski</h1>
+<img align='right' src='https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWPAAAAJGYyYTAyNGJiLTkzZWEtNGNmOS1hZjMyLWNjOTFhN2Y5Mzc0OA.jpg' width='200px' />
+<p>I've been coding since before I knew I was coding. It all started back in the day with little script files that I would write to carry out a series of windows shell commands. The made life so much easier. It fascinated me, but I didn't want to grow up to be 'one of those people' (meaning the computer nerds). So naturally I avoided going down that road until some years later when I dawned on me that it's what I should've done all along. Now that I'm on the right track, I couldn't be happier. I have finally found my calling, and who would've guessed, but I'm good at it too!
+
+
+
 <h1 align='center'>Ruby on Rails Portfolio</h1>
 <img align='right' src='https://github.com/Kowser/Overview/blob/master/images/ror.png' width='165px' />
-<p>Following JavaScript and Ruby, we put together everything we knew and ventured into the world of Rails, utilizing a full back-end database, object-oriented programming, and now the newly introduced MVC system on which Rails is built. We learned about controllers, views, assets, and a whole plethra of other concepts that allow rails to run and function so easily, provided the programmer follows standard rails conventions.</p>
+<p>Following Javascript and Ruby, we put together everything we knew and ventured into the world of Rails, utilizing a full back-end database, object-oriented programming, and now the newly introduced MVC system on which Rails is built. We learned about controllers, views, assets, and a whole plethra of other concepts that allow rails to run and function so easily, provided the programmer follows standard rails conventions.</p>
 
 <table width='100%'>
 	<thead>
@@ -140,7 +146,7 @@
 </table>
 
 
-<h1 align='center'>JavaScript Portfolio</h1>
+<h1 align='center'>Javascript Portfolio</h1>
 <img align='right' src='https://github.com/Kowser/Overview/blob/master/images/js.png' width='165px' />
 <p>Javascript was the first language we learned at Epicodus. We started with some of the rudimentary logic to begin teaching us about loops, if/then statements, writing functions, passing variables, etc... working our way up to the more complex object-oriented programming, and using jQuery to manipulate the user's front end experience. Ultimately we were able to build our own games, including a 52-card deck based game like Go Fish.</p>
 <table width='100%'>
@@ -169,7 +175,7 @@
 			<td>Using Google Maps & the Sunlight foundation APIs to obtain legislator and hearing information</td>
 		</tr>
 		<tr>
-			<td colspan='2'><strong>Basic JavaScript</strong></td>
+			<td colspan='2'><strong>Basic Javascript</strong></td>
 		</tr>
 		<tr>
 			<td>Factorial</td>
