@@ -1,24 +1,38 @@
 <h1 align='center'>JavaScript Portfolio</h1>
 
-<img align='right' src='blob/master/js.png' width='165px'>
-A selection of Javascript/jQuery and HTML/CSS works developed during my time at Epicodus. There are far more projects than we were able to fully finish, starting a new project almost daily. Pair-Programming &amp; Test Driven Development are the foundational basis of each project.
+<img align='right' src='blob/master/images/js.png' width='165px' />
+A selection of Javascript/jQuery works developed during my time at Epicodus. There are far more projects than we were able to fully finish, starting a new project almost daily. Pair-Programming &amp; Test Driven Development are the foundational basis of each project. All projects collectively share the same bootstrap framework files.
 
-All projects collectively share the same bootstrap framework files.
 
-<h2>Object-Oriented Javascript</h2>
-<table>
+<table width='100%'>
 	<thead>
 		<tr>
-			<th>Test</th>
+			<th>Project Name</th>
+			<th>Description</th>
 		</tr>
 	</thead>
+	<tbody>
+		<tr>
+			<td colspan='2'align='center'><strong>Object-Oriented Javascript</strong></td>
+		</tr>
+		<tr>
+			<td>Hangman</td>
+			<td>A classic with an API to conjure up impossible words! You only get 6 tries... API is currently disabled due to outdated API key with host</td>
+		</tr>
+		<tr>
+			<td>Tic-Tac-Toe</td>
+			<td>An old classic 2 player version</td>
+		</tr>
+		<tr>
+			<td>LegiSearch</td>
+			<td>Using Google Maps & the Sunlight foundation APIs to obtain legislator and hearing information</td>
+		</tr>
+	</tbody>
 </table>
 
-|project name  |Description|
-|--------------|-----------|
-|[Hangman](http://www.googledrive.com/host/0B--OefA61JUBVTE1T1B2Sk9jOGM/hangman)       |A classic with an API to conjure up impossible words! You only get 6 tries... API is currently disabled due to outdated API key with host.|
-|[Tic-Tac-Toe](http://www.googledrive.com/host/0B--OefA61JUBVTE1T1B2Sk9jOGM/tic-tac-toe)   |An old classic 2 player version.|
-|[LegiSearch](http://www.googledrive.com/host/0B--OefA61JUBVTE1T1B2Sk9jOGM/legisearch)    |Using Google Maps & the Sunlight foundation APIs to obtain legislator and hearing information|
+
+<h2>Object-Oriented Javascript</h2>
+
 
 ###Basic Javascript
 
