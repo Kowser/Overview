@@ -1,13 +1,18 @@
 <h1 align='center'>JavaScript Portfolio</h1>
 
-<img align='right' src='https://github.com/Kowser/JavaScript_Portfolio/blob/master/js.png' width='165px'>
-A selection of Javascript/jQuery and HTML/CSS works developed during my time at Epicodus. There are far more projects than we were able to fully finish, starting a new project almost daily. Pair-Programming & Test Driven Development are the foundational basis of each project.
+<img align='right' src='blob/master/js.png' width='165px'>
+A selection of Javascript/jQuery and HTML/CSS works developed during my time at Epicodus. There are far more projects than we were able to fully finish, starting a new project almost daily. Pair-Programming &amp; Test Driven Development are the foundational basis of each project.
 
 All projects collectively share the same bootstrap framework files.
 
-![alt text](https://github.com/Kowser/Javascript_Portfolio/blob/master/screenshots.png "JavaScript screenshots")
-
-###Object-Oriented Javascript
+<h2>Object-Oriented Javascript</h2>
+<table>
+	<thead>
+		<tr>
+			<th>Test</th>
+		</tr>
+	</thead>
+</table>
 
 |project name  |Description|
 |--------------|-----------|
